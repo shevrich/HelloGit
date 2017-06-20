@@ -1,2 +1,7 @@
 this is in the third doc
 this is also
+
+public void thisfunc()
+{
+	Console.Write("This is my last class!!")
+}
