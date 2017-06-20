@@ -4,4 +4,9 @@ this is also
 public void thisfunc()
 {
 	Console.WriteLind("what's up?")
+}this is also
+
+public void thisfunc()
+{
+	Console.Write("This is my last class!!")
 }
